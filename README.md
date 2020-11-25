@@ -1,6 +1,6 @@
 # Pokegame App
 
-Built a basic Pokemon game application using Create React App.
+Built a basic Pokemon game application using Create React App that deals players a hand of Pokemon cards and determines a winner based on the points in each player's hand.
 
 ## Features
 
